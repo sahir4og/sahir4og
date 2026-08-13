@@ -508,7 +508,7 @@
         "BLUE_500": "#C0C0C0",
         "BLUE_530": "#C0C0C0",
         "BLUE_560": "#C0C0C0",
-        "BLUE_600": "#C0C0C0",
+        "BLUE_600": "#C0C0C0", 
         "BLUE_630": "#C0C0C0",
         "BLUE_660": "#C0C0C0",
         "BLUE_700": "#C0C0C0",
@@ -520,7 +520,7 @@
     },
     "background": {
         "blur": 0,
-        "url": "https://raw.githubusercontent.com/sahir4og/sahir4og/refs/heads/main/BCE367C1-AEBD-4F12-9B80-35B5073E7C90.gif"
+        "url": "https://raw.githubusercontent.com/sahir4og/sahir4og/refs/heads/main/8BEDC72A-2215-43EB-BE2C-51133B607022.gif"
     },
     "plus": {
         "version": 0,
